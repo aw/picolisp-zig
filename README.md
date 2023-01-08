@@ -93,6 +93,6 @@ Enjoy!
 
 # License
 
-[MIT License](LICENSE)
+[0BSD License](LICENSE)
 
 Copyright (c) 2023 Alexander Williams, On-Prem <license@on-premises.com>
